@@ -1,0 +1,32 @@
+header {
+    height: 68px;
+    background: #1F4E5F;
+    
+}
+
+body {
+    background: #F4F7F7;
+}
+
+.container {
+    position: relative;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 75%;
+    height: 68px;
+}
+
+.nav-text {
+    color: #F4F7F7;
+    font-size: 18px;
+    padding-right: 50px;
+    
+}
+
+.nav-text:hover {
+    color: #AACFD0;
+    
+}
