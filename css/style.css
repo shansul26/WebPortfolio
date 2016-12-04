@@ -1,0 +1,102 @@
+.navbar {
+    background: #1F4E5F;  
+}
+
+body {
+    background: #F4F7F7;
+}
+
+
+
+.nav-option {
+    color: #F4F7F7 !important;
+    font-size: 18px;
+    padding-right: 50px !important;
+    
+}
+
+.nav-option:hover {
+    color: #AACFD0 !important;
+    
+}
+
+.nav-option:hover .circle {
+    background: #AACFD0 !important;
+    
+}
+
+img {
+    object-fit: scale-down;
+}
+    
+h1 {
+    color: #79A8A9;
+    font-size: 24px;
+}
+
+p {
+    color: #4A4A4A;
+}
+
+.portfolio-row {
+    padding-bottom: 100px;
+}
+
+.portfolio-column:hover {
+    background-color: #AACFD0;    
+}
+
+.portfolio-column:active {
+    background-color: #F4F7F7;
+}
+
+.circle-container {
+    position:relative;
+    left: 10px;
+}
+
+.circle {
+	width: 10px;
+	height: 10px;
+	background: #F4F7F7;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+    margin-bottom: 1px;
+}
+
+.invisible-circle {
+	width: 10px;
+	height: 10px;
+	background: #1F4E5F;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+    margin-bottom: 1px;
+}
+
+.nav-text {
+    padding-left: 10px;
+}
+
+.icon-bar {
+    background-color: #F4F7F7 !important;
+}
+
+.navbar-toggle {
+    border-width: 2px;
+    border-color: #F4F7F7 !important;
+}
+
+.navbar-toggle:hover, .navbar-toggle:focus {
+    border-color: #AACFD0 !important;
+    background-color: #1F4E5F !important;
+}
+
+.navbar-toggle:hover .icon-bar, .navbar-toggle:focus .icon-bar {
+    background-color: #AACFD0 !important;
+}
+
+#pdf-container {
+    height: 500%;
+}
